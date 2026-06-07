@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shaun Kahler
 
-### Senior Software Engineer & Data Architect | Founder, KBI Data
+### Senior Software & Data Engineer | Founder, KBI Data
 
 ---
 
